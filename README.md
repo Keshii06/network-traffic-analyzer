@@ -1,8 +1,5 @@
 # Network Traffic Sniffer and Analyzer - Mini Project
 
-
-
-
 **A real-time network packet sniffer and traffic visualization tool**
 
 </div>
