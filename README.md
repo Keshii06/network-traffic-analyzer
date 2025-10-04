@@ -11,8 +11,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technical Details](#technical-details)
+- [Supported Protocols](#supported protocols)
 - [Learning Outcomes](#learning-outcomes)
 - [Project Structure](#project-structure)
 
@@ -29,9 +28,20 @@ This project implements a comprehensive network traffic analysis tool that captu
 
 ### Prerequisites
 - Python 3.8 or higher
-- macOS (tested on macOS Ventura 13.0+)
-- Administrator privileges for packet capture
 
-### Dependencies Installation
-```bash
-pip3 install scapy matplotlib pandas numpy
+## 🔌Supported Protocols
+- TCP/UDP analysis
+- HTTP request/response tracking
+- ICMP packet inspection
+- DNS query monitoring
+- IP fragmentation detection
+
+## 📚 Learning Outcomes
+- Network protocol analysis and packet inspection
+- Python socket programming and data visualization  
+- Cybersecurity monitoring and threat detection
+- End-to-end project development skills
+
+
+
+
