@@ -1,4 +1,4 @@
-# Network Traffic Analyzer - Mini Project
+# Network Traffic Sniffer and Analyzer - Mini Project
 
 
 
@@ -11,7 +11,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Supported Protocols](#supported protocols)
+- [Supported Protocols](#supported-protocols)
 - [Learning Outcomes](#learning-outcomes)
 - [Project Structure](#project-structure)
 
