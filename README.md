@@ -1,10 +1,7 @@
 # Network Traffic Analyzer - Mini Project
 
-<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Scapy](https://img.shields.io/badge/Scapy-Network%20Analysis-orange.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-green.svg)
+
 
 **A real-time network packet sniffer and traffic visualization tool**
 
